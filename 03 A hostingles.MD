@@ -17,9 +17,9 @@ we gaan nu de files op onze ma host plaatsen:
 
 
 - `Index.html` komt in de webroot (web)
-- In `web` maak je een directory `img`
+- In `web` maak je een directory met de naam `img`
 - In de `img` directory zet je `mario.png`
-- In de `web` maak je nog een directory `subsite`
+- In de `web` maak je nog een directory met de naam `subsite`
 - In `subsite` zet je `voorbeeld.html`
 - `Readme.txt` komt in de `subsite``
 
