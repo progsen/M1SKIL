@@ -13,7 +13,9 @@ Zet in alle 3 de tekstfiles een `nette` tekst.
 - Teken hoe een website van server naar browser gaat 
 
 
-## plaatsen
+## plaatsen op je ma host
+
+Nu gaan we de files die je gemaakt hebt op je ma-host plaatsen (met FileZilla)
 
 * als een map niet bestaat, wat doe je dan?
 
