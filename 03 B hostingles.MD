@@ -22,7 +22,7 @@ Nu gaan we de files die je gemaakt hebt op je ma-host plaatsen (met FileZilla)
 - plaats `ik_snap_het.txt` in de map `les` 
 - plaats je plaatje ook in de map `les`
 - plaats `best_ver_in_de_boom.txt` minimaal 3 directories diep vanaf je webroot. 
-- `buurman.txt` komt naast `best_ver_in_de_boom.txt` en `ik_snap_het.txt`
+- `buurman.txt` komt zowel in de directory van `best_ver_in_de_boom.txt` en in de directory van `ik_snap_het.txt`
 
 ## Navigeren
 
