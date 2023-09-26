@@ -3,7 +3,8 @@
 
 - Download les 03 hosting files.zip
 * Teams M1 SKIL -> general -> files `les 03 hosting files.zip`
-* of download de zip vanuit deze git
+* of download de zip vanuit deze git (https://github.com/progsen/M1SKIL/blob/main/hosting/les%203%20hosting%20files.zip)
+
 
 - pak de file uit (rechten muis, extract here)
 * een zip file is 1 bestand waar 1 of meerdere bestanden in kunnen zitten
