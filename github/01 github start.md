@@ -18,15 +18,15 @@ heb je nog geen account? doe dan deze stappen:
 
 - log in op github, nu zie je ongeveer:
 
-![githubmain.png](githubmain.png)
+![githubmain.png](img/githubmain.png)
 
 - click op de `new` knop
 
-![new](new.png)
+![new](img/new.png)
 
 - nu zie je de `create repository` pagina
 
-![repo](repo.png)
+![repo](img/repo.png)
 
 * vul als repository naam `les_github` in
 * zet `public` aan
@@ -44,7 +44,7 @@ Daarvoor hebben we de `url` van de repository nodig:
 - kopieer de link die je dan ziet staan 
     * ziet er ongeveer zo uit: https://github.com/YOURNAME/REPONAME.git
 
-![repolink](repolink.png)
+![repolink](img/repolink.png)
 
 - ga nu naar je school map van dit vak
 - open een `cmd` in die map

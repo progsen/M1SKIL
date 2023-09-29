@@ -18,22 +18,22 @@ we hebben een token nodig:
 - click op je account icoon
 - click op settings
 
-![settings.png](settings.png)
+![settings.png](img/settings.png)
 
 - links staat een menu, click op `developer settings`
 
-![devset](devset.png)
+![devset](img/devset.png)
 
 
 - click op `personal access tokens`
 - click nu op `tokens (classic)`
 
-![token.png](token.png)
+![token.png](img/token.png)
 
 - click nu op generate token
 
 - click op generate classic token
-![classic.png](classic.png)
+![classic.png](img/classic.png)
 
 
 ## token maken
@@ -44,20 +44,20 @@ nu kunnen we een token gaan maken:
 - Zet de `expiration` op `no expiration` voor nu
 - vink de `repo` aan
 
-![newtoken.png](newtoken.png)
+![newtoken.png](img/newtoken.png)
 
 - als dat goedstaat kan je op `generate token` clicken `onderaan` de pagina
 
 - `LET OP!!!` je krijgt nu je token te zien. Dit is 1 keer!
 - sla het token op, bijvoorbeeld in een `wachtwoord manager`
 
-![1time.png](1time.png)
+![1time.png](img/1time.png)
 
 ## EINDELIJK!
 
 nu kunnen we inloggen en pushen:
 
-![login.png](login.png)
+![login.png](img/login.png)
 
 - click op token
 - plak je token 
