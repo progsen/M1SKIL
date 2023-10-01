@@ -8,7 +8,7 @@ laten we dat proberen:
 
 * Nu krijg je een `login` scherm
 
-![signin](signin.png)
+![signin](img/signin.png)
 
 ## token settings page
 
