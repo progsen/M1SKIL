@@ -1,9 +1,8 @@
 ## opdracht
 
-
-- Git fork https://github.com/progsen/skillbranch met github
-- Clone jouw fork (`van jouw repository`) van skillbranch
-    - https://github.com/JOUWUSER/ skillbranch 
+- open  https://github.com/progsen/skillbranch in een nieuwe tab
+- maak een fork met github (fork knop)
+- Clone jouw fork (`van jouw repository`) van skillbranch naar je laptop
 - Maak 2 nieuwe branches: 
     - bugfix
     - nieuwblock
@@ -23,7 +22,6 @@ open de `js` directory in visual studio code
 
 ## nieuwblock branch
 
-- Ga naar de `main` branch
 - Ga naar branch `nieuwblock`
 - Open de javascript file `GameContext.js`
 - Op regel 50 & 51 vervang je `0` door `1` zoals op het Plaatje in `geel`
