@@ -27,7 +27,7 @@ open de `js` directory in visual studio code
 - Ga naar branch `nieuwblock`
 - Open de javascript file `GameContext.js`
 - Op regel 50 & 51 vervang je `0` door `1` zoals op het Plaatje in `geel`
-<br>![](block.png)
+<br>![](block.PNG)
 - Commit deze change
 
 
