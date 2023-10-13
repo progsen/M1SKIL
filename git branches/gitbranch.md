@@ -53,6 +53,6 @@ zoek uit:
 - Ga naar branch main
 - git merge commands
 
-## commit!
+## aftekenen!
 
-commit het werk nu
+laat je werk nu aftekenen
