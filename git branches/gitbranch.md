@@ -40,6 +40,18 @@ open de `js` directory in visual studio code
 - Ga naar branch main
 - Git merge nieuwblock
 
+## wat kan je nog meer?
+
+zoek uit:
+- hoe je alle branches kan tonen via de command prompt
+- hoe je een branche renamed via de command prompt
+- hoe je een branche delete via de command prompt
+- maak een nieuwe branch: `commands`
+- check die branch uit
+- schrijf de commandos in een nieuwe text file `branche commands.txt`
+- Commit deze change
+- Ga naar branch main
+- git merge commands
 
 ## commit!
 
