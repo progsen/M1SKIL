@@ -16,7 +16,7 @@ open de `js` directory in visual studio code
 ## bugfix branch opdracht
 
 - Ga naar branch `bugfix`
-- Open de python file `GameField.js`
+- Open de javascript file `GameField.js`
 - Op regel 62 (zie Plaatje) vervang `NONE` door `NULL`
 <br>![](null.png)
 - Commit deze change
@@ -25,7 +25,7 @@ open de `js` directory in visual studio code
 
 - Ga naar de `main` branch
 - Ga naar branch `nieuwblock`
-- Open de python file `GameContext.js`
+- Open de javascript file `GameContext.js`
 - Op regel 50 & 51 vervang je `0` door `1` zoals op het Plaatje in `geel`
 <br>![](block.png)
 - Commit deze change
