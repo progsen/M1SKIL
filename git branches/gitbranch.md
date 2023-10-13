@@ -5,7 +5,7 @@
 - Clone jouw fork (`van jouw repository`) van skillbranch naar je laptop
 - Maak 2 nieuwe branches: 
     - bugfix
-    - nieuwblock
+    - newblock
 
 ## juiste directory
 
@@ -20,9 +20,9 @@ open de `js` directory in visual studio code
 <br>![](null.png)
 - Commit deze change
 
-## nieuwblock branch
+## newblock branch
 
-- Ga naar branch `nieuwblock`
+- Ga naar branch `newblock`
 - Open de javascript file `GameContext.js`
 - Op regel 50 & 51 vervang je `0` door `1` zoals op het Plaatje in `geel`
 <br>![](block.PNG)
@@ -33,10 +33,10 @@ open de `js` directory in visual studio code
 
 - Ga naar branch main
 - git merge bugfix
-- Ga naar branch nieuwblock
+- Ga naar branch newblock
 - Git merge main
 - Ga naar branch main
-- Git merge nieuwblock
+- Git merge newblock
 
 ## wat kan je nog meer?
 
