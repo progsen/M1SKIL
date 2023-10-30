@@ -1,11 +1,12 @@
 ## Zelf een opdracht maken
 
 - maak teams van 2
+- maak alle twee een `git repository` aan in `github`
 
 ## opdrachten maken
 
 - maak nu zelf een opdracht die de ander moet uitvoeren:
-  - gebruik hier het MD formaat voor
+  - gebruik hier het `MD formaat` voor
   - de opdracht gaat over git
     - commits
     - merges
