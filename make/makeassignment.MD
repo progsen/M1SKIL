@@ -7,9 +7,10 @@
 
 - maak nu zelf een opdracht die de ander moet uitvoeren:
   - gebruik hier het `MD formaat` voor
-  - de opdracht gaat over git
+  - de opdracht gaat over git, gebruik de onderwerpen:
     - commits
     - merges
+    - branches
     
 ## opdracht doen
 
